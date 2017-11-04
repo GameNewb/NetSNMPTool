@@ -1,0 +1,18 @@
+﻿  Main.c
+Main.obj : error LNK2001: unresolved external symbol __imp__winsock_cleanup
+Main.obj : error LNK2001: unresolved external symbol __imp__winsock_startup
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_pdu_create
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_errstring
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_sess_perror
+Main.obj : error LNK2001: unresolved external symbol __imp__read_objid
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_free_pdu
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_sess_init
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_open
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_close
+Main.obj : error LNK2001: unresolved external symbol __imp__print_variable
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_synch_response
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_perror
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_log
+Main.obj : error LNK2001: unresolved external symbol __imp__init_snmp
+Main.obj : error LNK2001: unresolved external symbol __imp__snmp_add_null_var
+d:\users\kiyeon\documents\visual studio 2015\Projects\NetSNMPTool\Release\NetSNMPTool.exe : fatal error LNK1120: 16 unresolved externals

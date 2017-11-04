@@ -1,0 +1,2 @@
+﻿  Main.c
+d:\users\kiyeon\documents\visual studio 2015\projects\netsnmptool\netsnmptool\main.c(1): fatal error C1083: Cannot open include file: 'net-snmp-config.h': No such file or directory
